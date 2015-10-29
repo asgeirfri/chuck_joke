@@ -1,3 +1,4 @@
+[![Build Status]https://travis-ci.org/asgeirfri/chuck_joke.pgn]https://travis-ci.org/asgeirfri/chuck_joke
 # chuck_joke
 (T-303-HUGB, Hugbúnaðarfræði, 2015-3)
 
